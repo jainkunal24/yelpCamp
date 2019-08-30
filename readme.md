@@ -1,3 +1,4 @@
 # YelpCamp
 
-### Refactored by Ian Schoonover
+A platform to share your memorable experiences
+
